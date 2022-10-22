@@ -1,2 +1,3 @@
 # -100DaysofCode
-Coding Journey Blog via Twitter @arielleviews__   
+Coding Journey Blog via Twitter 
+
